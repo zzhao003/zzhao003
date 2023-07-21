@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 I'm Zhi, a full stack software engineer
 - 🔭 I’m currently learning Python and practicing Algorithms and Data Structures:
-  [Zhi's Repo](https://github.com/zzhao003)
+  [Zhi's Repo](https://github.com/zzhao003) and [Leetcode Profile](https://leetcode.com/zzhao003/)
 - 💬 If you want to say hi, you can shoot me a message through [email](mailto:zzhao003@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/zhixuanZhao/)
 - ⚙️ Languages & Tools:
 
